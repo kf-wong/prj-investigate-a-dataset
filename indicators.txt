@@ -1,0 +1,25 @@
+Economy: 
+	*inflation
+	*working hour per week, 
+	*GDP PPP inflation ajusted 
+
+Education: 
+	*mean years in school (Men & Woman 25 above)
+
+Health: 
+	*Total health spending/person (PPP)
+	*suicide_per_100000_people
+	
+Environment: 
+	*Agriculture land percent
+	
+Society: 
+	*Human Development Index (health level, education level and living standard)
+
+Work: 
+	*Labor force(25-54)
+
+Population: 
+	*sex ratio
+
+
